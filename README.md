@@ -11,13 +11,17 @@
 
 <br>
 <div align="justify">
-<p>Sou apaixonado por Tecnologia, Design e Marketing Digital, elementos que, juntos, proporcionam novas formas de fazer negócios e contribuem para uma melhor interação digital, gerando impactos positivos na vida das pessoas.</p>
+<p>Sou um profissional apaixonado por tecnologia, design e marketing digital, elementos que, juntos, proporcionam novas formas de fazer negócios e contribuem para uma melhor interação digital, gerando impactos positivos na vida das pessoas.</p>
 
-<p>Sou um profissional que gosto de praticar, em primeira instância, a empatia para que eu possa desenvolver todas as demais softs skills de forma efetiva e compreender as diversas situações em torno de um ambiente organizacional repleto de processos dinâmicos e pessoas com personalidades distintas.</p>
+<p>Gosto de praticar a empatia desenvolvendo todas as demais soft skills para compreender as diversas situações em torno de um ambiente organizacional repleto de processos dinâmicos e pessoas com personalidades distintas.</p>
 
-<p>Tenho experiência no segmento tecnológico com ênfase em programação Front-end e plataforma WordPress para desenvolvimento de sites, blogs, portais de notícias, criação e formatação de ambientes virtuais de aprendizagem (Moodle), planejamento e implantação de lojas virtuais. Trabalho, também, como instrutor no segmento de tecnologia, gestão e negócios pelo Senac Piauí, tendo como aptidão o papel de facilitador da aprendizagem através da aplicação de metodologias ativas e Modelo Pedagógico Senac (MPS). Atuo como freelance na Agência Digital Design executando atividades de social media.</p>
+<p>Fico encantado com o universo da programação, incorporado aos scripts de forma fracionada que começam a se unir gerando um modelo visual e funcionalidades com foco em soluções viáveis para problemas amplamente relevantes. Não posso deixar de falar do momento em que acontecem os bugs (as temidas falhas) que desenvolve, em mim, habilidades interpessoais e intrapessoais que são importantes para exercitar a resolução de conflitos, comunicação, resolução de problemas, paciência, inteligência emocional, ou seja, em termo geral a prática da resiliência.</p>
+
+   <p>Minhas habilidades incluem o aprendizado rápido de novas habilidades e linguagens de programação; resolução de problemas; princípios de design responsivo; interpretação e correção de falhas dos códigos. Até agora, tenho conhecimentos de HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Python, Django, PHP, SQL, Vtex IO, Git e GitHub. Ainda estou agarrando-me a outros recursos como NodeJS, MondoDB, GraphQL, ExpressJS.</p>
   
-<p>Acredito no trabalho partindo de ações resolutivas que possam fazer diferença na vida das pessoas. Sempre fui um profissional híbrido, que deseja adquirir novas habilidades e, também, conhecimentos em diferentes áreas pautado no compromisso e foco em resultados de qualidade, buscando sempre fazer um excelente trabalho.</p>
+   <p>Minha experiência inclui a criação de projetos de comunicação visual; produção de conteúdo visual para mídias sociais; produção de sites institucionais, blogs, portais de notícias, criação e formatação de ambientes virtuais de aprendizagem (Moodle) através da plataforma WordPress customizando páginas com o uso de HTML, CSS, PHP e seus plugins. Atuo, também, como instrutor de cursos profissionalizantes no segmento de tecnologia, gestão e negócios pela instituição SENAC, tendo como atribuições o planejamento e desenvolvimento de situações de aprendizagem voltadas para a qualificação profissional das pessoas, com base no plano de ensino do Senac, o MPS (Modelo Pedagógico Senac) e a aplicação de metodologias ativas de aprendizagem.</p>
+   
+<p>Acredito no trabalho partindo de ações resolutivas que possam fazer diferença na vida das pessoas. Sempre fui um profissional híbrido, adquirindo novas habilidades e, também, conhecimentos em diferentes áreas pautado no compromisso e foco em resultados de qualidade, buscando sempre fazer um excelente trabalho.</p>
 </div>
 
 <br>
