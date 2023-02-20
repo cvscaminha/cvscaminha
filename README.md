@@ -1,8 +1,7 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá! Eu sou Cristiano Vieira </h1>
-<h5 align="center">Vamos conversar? Entre em contato comigo para networking.</h5>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá, me chamo Cristiano Vieira! </h1>
+<h5 align="center">Vamos conversar? Entre em contato comigo.</h5>
 
 <div align="center">
-   <a href="http://agenciadigitaldesign.ga/" target="_blank"><img src="https://img.shields.io/badge/Site-FF4500?style=for-the-badge&logo=circle&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/criscaminhavieira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:cvscaminha@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
   <a href = "mailto:cvscaminhaetec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -26,7 +25,7 @@
 
 <br>
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Ferramentas e Tecnologias
 
 <div align="left" style="display: inline_block"><br>
   <img align="center" alt="Cris-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,9 +35,7 @@
   <img align="center" alt="Cris-React" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Cris-Git" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Cris-Bootstrap" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Cris-Bootstrap" height="40" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg">
   <img align="center" alt="Cris-Python" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Cris-Django" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
   <img align="center" alt="Cris-PHP" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Cris-Java" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" >
   <img align="center" alt="Cris-PostgreSQL" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
